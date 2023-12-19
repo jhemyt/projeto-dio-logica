@@ -1,2 +1,4 @@
-let name = matheus
-console.log(ola matheus)
+const age = 18 
+let name = " matheus "
+
+console.log("Você tem " + age + "," + name )
